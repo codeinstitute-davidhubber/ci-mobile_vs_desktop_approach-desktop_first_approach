@@ -1,4 +1,4 @@
-### Code Institiute - Repsonsive Design - Ddesktop First Approach
+### Code Institiute - Repsonsive Design - Desktop First Approach
 
 ***
      ____  _   _ ____ _____ _   _ ____ ___ ___  
@@ -14,7 +14,7 @@
 ***
 #### project url: **'https://davidhubber.github.io/ci-mobile_vs_desktop_approach-desktop_first_approach/'**
 ***
-title: **'Code Institiute - Repsonsive Design - Ddesktop First Approach'**
+title: **'Code Institiute - Repsonsive Design - Desktop First Approach'**
 
 description: **It is a approach in the responsive design. It applies styles for the desktop first and then for smaller screens by setting the maximum width property in media query.**
 
@@ -32,4 +32,4 @@ credits:
 
 **• generated title ASCII-Font url › [patorjk.com](http://patorjk.com/software/taag/#p=display&c=bash&f=Jerusalem&t=DHSTUDIO "Title")**
 
-### Code Institiute - Repsonsive Design - Ddesktop First Approach
+### Code Institiute - Repsonsive Design - Desktop First Approach
