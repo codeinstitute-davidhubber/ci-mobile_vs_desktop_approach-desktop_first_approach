@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-mobile_vs_desktop_approach-desktop_first_approach/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-mobile_vs_desktop_approach-desktop_first_approach/'**
 ***
 title: **'Code Institiute - Repsonsive Design - Desktop First Approach'**
 
